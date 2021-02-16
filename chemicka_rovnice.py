@@ -30,7 +30,7 @@ class Molekula:
             # Cyklus, který čte vzorec molekuly znaku po znaku.
             znak = vzorec_molekuly[i]
 
-            if i > 0 and vzorec_molekuly[i-1].isdigit() and not znak.isupper():
+            if i > 0 and vzorec_molekuly[i-1].isdigit() and not (znak.isupper() or znak.isdigit()):
                 # Ověření správného zápisu molekuly a případná možnost opravy. (Po čísle určující počet atomů musí
                 # následovat velké písmeno (další prvek).)
                 prvky_molekuly = self.oprava_molekuly("nesprávný zápis")
