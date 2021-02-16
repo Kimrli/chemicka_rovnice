@@ -1,0 +1,42 @@
+# Tento soubor obsahuje chemické rovnice, na kterých lze vyzkoušet program "chemicka_rovnice.py".
+
+H2 + O2 --> H2O
+
+NaCl + H2O --> NaOH + HCl
+
+NaCl + Zn --> ZnCl2 + Na
+
+B2O3 + CaF2 + H2SO4 --> BF3 + CaSO4 + H2O
+
+CuSO4 + NaCl --> Na2SO4 + CuCl2
+
+K3PO4 + CaCl2 --> Ca3(PO4)2 + KCl
+-> K3PO4 + CaCl2 --> Ca3P2O8 + KCl
+
+C + O2 --> CO2
+
+Cu + HNO3 --> Cu(NO3)2 + NO + H2O
+-> Cu + HNO3 --> CuN2O6 + NO + H2O
+
+P + HNO3 + H2O --> H3PO4 + NO
+
+Se + HNO3 + H2O --> H2SeO3 + NO
+
+P + H2O + Br2 --> HBr + H3PO3
+
+Ag2SeO3 + Br2 + H2O --> H2SeO4 + AgBr
+
+Te + HClO3 + H2O --> H6TeO6 + Cl2
+
+H6TeO6 + HCl --> H2TeO3 + Cl2 + H2O
+
+HClO3 --> ClO2 + HClO4 + H2O
+
+(NH4)2Cr2O7 --> N2 + Cr2O3 + H2O
+-> N2H8Cr2O7 --> N2 + Cr2O3 + H2O
+
+Ag2SeO3 + Br2 + H2O --> H2SeO4 + AgBr
+
+NaCl + H2SO4 + MnO2 --> Cl2 + MnCl2 + Na2SO4 + H2O
+
+Cr2O3 + KNO3 + KOH --> K2CrO4 + KNO2 + H2O

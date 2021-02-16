@@ -1,0 +1,23 @@
+1x NaCl + 1x H2O --> 1x NaOH + 1x HCl
+
+NaCl: 58.44276828 g/mol, 76.44 % (hmotnostni zlomek)
+-> Na: 50.0 % (molarni zlomek), 39.34 % (hmotnostni zlomek)
+-> Cl: 50.0 % (molarni zlomek), 60.66 % (hmotnostni zlomek)
+
+H2O: 18.01528 g/mol, 23.56 % (hmotnostni zlomek)
+-> H: 66.67 % (molarni zlomek), 11.19 % (hmotnostni zlomek)
+-> O: 33.33 % (molarni zlomek), 88.81 % (hmotnostni zlomek)
+
+NaOH: 39.99710828 g/mol, 52.31 % (hmotnostni zlomek)
+-> Na: 33.33 % (molarni zlomek), 57.48 % (hmotnostni zlomek)
+-> O: 33.33 % (molarni zlomek), 40.0 % (hmotnostni zlomek)
+-> H: 33.33 % (molarni zlomek), 2.52 % (hmotnostni zlomek)
+
+HCl: 36.46094 g/mol, 47.69 % (hmotnostni zlomek)
+-> H: 50.0 % (molarni zlomek), 2.76 % (hmotnostni zlomek)
+-> Cl: 50.0 % (molarni zlomek), 97.24 % (hmotnostni zlomek)
+
+Na: Sodik (Natrium), 11, 22.98976828 g/mol
+Cl: Chlor (Chlorum), 17, 35.453 g/mol
+H: Vodik (Hydrogenium), 1, 1.00794 g/mol
+O: Kyslik (Oxygenium), 8, 15.9994 g/mol
